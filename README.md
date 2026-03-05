@@ -6,32 +6,33 @@
 
 ✦ Key Responsibilities
 
-Collected and analyzed Uber trip datasets
+• Collected and analyzed Uber trip datasets
 
-Performed data cleaning and preprocessing using Python
+• Performed data cleaning and preprocessing using Python
 
-Analyzed trip frequency based on date and time
+• Analyzed trip frequency based on date and time
 
-Identified peak ride hours and high-demand locations
+• Identified peak ride hours and high-demand locations
 
-Created visualizations to highlight ride demand patterns
+• Created visualizations to highlight ride demand patterns
 
 ✦ Key Insights
 
-Identified peak travel hours during the day
+• Identified peak travel hours during the day
 
-Observed higher ride demand during weekends and evening hours
+• Observed higher ride demand during weekends and evening hours
 
-Highlighted locations with the highest trip frequency
+• Highlighted locations with the highest trip frequency
 
 ✦ Tools & Technologies Used 
 
-Python
+• Python
 
-Pandas
+• Pandas
 
-Excel
+• Excel
 
-Data Visualization
+• Data Visualization
 
-Exploratory Data Analysis
+• Exploratory Data Analysis
+
