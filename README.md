@@ -7,9 +7,10 @@
 📸 Dashboard Preview
 
 Uber Trip Analysis Performance Overview
-![Uber Trip Dashboard](UberTripAnalysis.png)
+![Uber Trip Dashboard](UberTripAnalysisOverview.png)
 
-
+Tooltip View Analysis
+![Uber Trip Dashboard](TooltipViewAnalysis.png)
 
 ✦ Key Responsibilities
 
