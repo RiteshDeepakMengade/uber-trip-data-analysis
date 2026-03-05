@@ -4,6 +4,13 @@
 
  Performed an exploratory data analysis on Uber trip datasets to understand ride demand patterns, peak travel hours, and location-based    trends. The objective of this project was to analyze transportation data and generate insights that could help optimize ride              availability   and improve customer service.
 
+📸 Dashboard Preview
+
+Uber Trip Analysis Performance Overview
+![Uber Trip Dashboard](UberTripAnalysis.png)
+
+
+
 ✦ Key Responsibilities
 
 • Collected and analyzed Uber trip datasets
